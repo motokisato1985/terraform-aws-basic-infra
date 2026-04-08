@@ -13,6 +13,10 @@ CloudFront・ALB・EC2・RDS を組み合わせた基本的なWebアプリケー
 * CloudFrontを用いた配信構成
 
 ---
+## 構成図
+![構成図](./architecture.png)
+
+---
 
 ## 構成概要
 
